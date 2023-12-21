@@ -23,6 +23,8 @@ public class StepDefs {
         driver = new ChromeDriver();
         driver.get("https://www.selenium.dev/");
 
+
+
     }
 
     @Then("Verify webpage is displayed to user")
